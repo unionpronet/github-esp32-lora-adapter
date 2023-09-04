@@ -66,7 +66,8 @@ To
 [![Build success](/images/build-success.jpg)](https://github.com/unionpronet/github-esp32-lora-adapter/blob/main/images/build-success.jpg)
 
 4. Put a "Doit ESP32 DevKit V1" on "esp32-lora-adapter" 
-[![TO BE available!!! ](/images/esp32-lora-adapter.jpg)](https://github.com/unionpronet/github-esp32-lora-adapter/blob/main/images/esp32-lora-adapter.jpg)
+
+[![TO BE available!!! esp32-lora-adapter image](/images/esp32-lora-adapter.jpg)](https://github.com/unionpronet/github-esp32-lora-adapter/blob/main/images/esp32-lora-adapter.jpg)
 
 5. Connect the "Doit ESP32 DevKit V1" to PC by an USB cable
 6. On the Arduino IDE, click menu "Sketch" -> "Upload". You should see the followings
@@ -92,7 +93,7 @@ To
 ## *** source code will be available in B/Nov ***
 
 ## Video demo is available on 
-[TO BE available!!! esp32-lora-adapter](https://www.youtube.com/watch?v=)  
+[TO BE available!!! esp32-lora-adapter video](https://www.youtube.com/watch?v=)  
 
 
 # Contribute
