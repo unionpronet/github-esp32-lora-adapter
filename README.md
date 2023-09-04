@@ -7,6 +7,7 @@ This project demonstrates how to leverage ESP32 to forward a Lora message to an 
 
 
 ## System block diagram
+```
     Lora transmitter                                            Lora receiver                    Android logger
 
    +----------------+                                         +----------------+
@@ -17,7 +18,7 @@ This project demonstrates how to leverage ESP32 to forward a Lora message to an 
    |   ESP32 Lora   | +------+                       +------+ |   ESP32 Lora   |   (Bluetooth)   |  mobile   |
    |    adapter     |-| Lora |    ...............    | Lora |-|    adapter     |       ...       |  device   |
    +----------------+ +------+                       +------+ +----------------+                 +-----------+
-
+```
 
 ## Hardware requirement
 1. Two pieces of "Doit ESP32 DevKit V1"
