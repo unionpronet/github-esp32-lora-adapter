@@ -1,0 +1,7 @@
+{
+    "output": "../build/github-esp32-lora-adapter",
+    "sketch": "github-esp32-lora-adapter.ino",
+    "board": "esp32:esp32:esp32",
+    "configuration": "JTAGAdapter=default,PSRAM=disabled,PartitionScheme=default,CPUFreq=240,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,LoopCore=1,EventsCore=1,DebugLevel=none,EraseFlash=none",
+    "port": "COM11"
+}

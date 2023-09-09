@@ -92,8 +92,11 @@ To
 ### Please refer to "arduino-esp32-lora-adapter.ino" for complete code
 ## *** source code will be available in B/Nov ***
 
-## Video demo is available on 
-[TO BE available!!! esp32-lora-adapter video](https://www.youtube.com/watch?v=)  
+### Video demo is available on  
+[xmc-lora-sensor video](https://youtu.be/yTs0bI0mfuo)  
+Setup Lora Receiver and Android APP during 0 - 8s.  
+Power on the "Solar Power Lora Sensor" on 9s.  
+The first sensors' data is received at 28s, and repeatedly receive every 5 seconds.
 
 
 # Contribute
