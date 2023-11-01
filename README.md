@@ -90,7 +90,6 @@ To
 ---
 
 ### Please refer to "arduino-esp32-lora-adapter.ino" for complete code
-## *** source code will be available in B/Nov ***
 
 ### Video demo is available on  
 [xmc-lora-sensor video](https://youtu.be/yTs0bI0mfuo)  
